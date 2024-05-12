@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/0fcdece88e.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/cart_delivery.css">
     <a href="https://www.flaticon.com/free-icons/done" title="done icons"></a>
 </head>
 <body>

@@ -6,7 +6,7 @@
 
         <ul>
             <li>
-                <a href="index.html">
+                <a href="/home">
                     <img src="/assets/image/logo.webp" style="width: 200px;" alt="">
                 </a>
             </li>
@@ -51,7 +51,7 @@
                 </a>
             </li>
             <li>
-                <a href="cart.html">
+                <a href="/carts">
                     <button>
                         <i class="fa-solid fa-cart-shopping"></i>
                         Giỏ hàng
